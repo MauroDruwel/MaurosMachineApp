@@ -1,7 +1,8 @@
 {
-    "app": {
-      "version": "2.7",
-      "versionCode": "27",
-      "link": "https://raw.githubusercontent.com/MauroDruwel/MaurosMachineApp/main/releases/2.7/BikeLights.apk"
-    }
+  "app": 
+  {
+    "version": "2.8",
+    "versionCode": "28",
+    "link": "https://raw.githubusercontent.com/MauroDruwel/MaurosMachineApp/main/releases/2.8/BikeLights.apk"
   }
+}
